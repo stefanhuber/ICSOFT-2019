@@ -63,7 +63,7 @@ interactions = [
 
 def runAll():
 
-    for j in range(25, 26):
+    for j in range(1, 26):
         for i in range(0, len(interactions)):
             for a in range(0, len(apps)):
                 vmstat = Vmstat(30, "vmstat_{}_{}_{}_{}.txt".format(serialno, apps[a]["type"], interactions[i]['name'], j))
