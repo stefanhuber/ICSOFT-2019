@@ -14,5 +14,9 @@
 ## Run interactions
 
  - **Virtual environment must be activated**
- - **Connect a device in developer mode vi USB** (ensure that tha `adb daemon` is running)
+ - **Connect a device in developer mode via USB** (ensure that tha `adb daemon` is running)
  - Execute `python main.py` to start the test procedure
+
+## Paper
+
+[https://link.springer.com/chapter/10.1007/978-3-030-52991-8_3](https://link.springer.com/chapter/10.1007/978-3-030-52991-8_3)
